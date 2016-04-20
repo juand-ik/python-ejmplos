@@ -3,4 +3,4 @@ python-ejmplos
 
 python-ejemplos
 
-Codigos empleados en un curso de python.
+Codigos empleados en un curso de python 3.
